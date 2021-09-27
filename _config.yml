@@ -4,13 +4,13 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 title:            MIST Guides
 tagline:          'A GW2 guild for learning fractals.'
 description:      'A friendly place for getting started with fractals to learning the most difficult of CMs and everything in between'
-url:              http://hyde.getpoole.com
+url:              http://www.google.com
 baseurl:          /
 
 author:
